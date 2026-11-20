@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <Config>
-<CheckVersion value="true"/>
+<CheckVersion value="false"/>
 <Version CV="0.0.8" FV="0.0.7"/>
 </Config>
